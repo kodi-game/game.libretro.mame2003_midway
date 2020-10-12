@@ -4,7 +4,7 @@ Maintainer: wsnipex <wsnipex@a1.net>
 Build-Depends: debhelper (>= 9.0.0),
                cmake,
                kodi-addon-dev,
-               libretro-mame2003_midway (>= 0.0.1) | mame2003_midway (>= 0.0.1)
+               libretro-mame2003_midway (>= 0.78.0) | mame2003_midway (>= 0.78.0)
 Standards-Version: 3.9.8
 Section: libs
 

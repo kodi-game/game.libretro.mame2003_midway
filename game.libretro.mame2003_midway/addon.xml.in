@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.mame2003_midway"
 		name="Arcade (MAME 2003 Midway)"
-		version="0.0.1.1"
+		version="0.78.0.2"
 		provider-name="MAMEdev">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -9,13 +9,13 @@
 	<extension point="kodi.gameclient"
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
 		<platforms></platforms>
-		<extensions></extensions>
+		<extensions>zip</extensions>
 		<supports_vfs>false</supports_vfs>
 		<supports_standalone>false</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">Arcade (MAME 2003 Midway) 0.0.0</summary>
-		<description lang="en_GB"></description>
+		<summary lang="en_GB">Arcade (MAME 2003 Midway) 0.78</summary>
+		<description lang="en_GB">Supported files: .zip</description>
 		<license>MAME</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.mame2003_midway</source>
