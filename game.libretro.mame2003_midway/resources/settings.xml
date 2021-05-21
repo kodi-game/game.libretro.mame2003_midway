@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
 	<category label="30000">
-		<setting label="30001" type="select" id="mame2003-cheats" values="disabled|enabled" default="disabled"/>
+		<setting label="30001" type="select" id="mame2003-frameskip" values="0|1|2|3|4|5" default="0"/>
 		<setting label="30002" type="select" id="mame2003-dcs-speedhack" values="enabled|disabled" default="enabled"/>
-		<setting label="30003" type="select" id="mame2003-dialsharexy" values="disabled|enabled" default="disabled"/>
-		<setting label="30004" type="select" id="mame2003-frameskip" values="0|1|2|3|4|5" default="0"/>
-		<setting label="30005" type="select" id="mame2003-mouse_device" values="mouse|pointer|disabled" default="mouse"/>
-		<setting label="30006" type="select" id="mame2003-rstick_to_btns" values="enabled|disabled" default="enabled"/>
-		<setting label="30007" type="select" id="mame2003-sample_rate" values="48000|8000|11025|22050|44100" default="48000"/>
-		<setting label="30008" type="select" id="mame2003-samples" values="enabled|disabled" default="enabled"/>
-		<setting label="30009" type="select" id="mame2003-skip_disclaimer" values="enabled|disabled" default="enabled"/>
-		<setting label="30010" type="select" id="mame2003-skip_warnings" values="disabled|enabled" default="disabled"/>
+		<setting label="30003" type="select" id="mame2003-skip_disclaimer" values="enabled|disabled" default="enabled"/>
+		<setting label="30004" type="select" id="mame2003-skip_warnings" values="disabled|enabled" default="disabled"/>
+		<setting label="30005" type="select" id="mame2003-samples" values="enabled|disabled" default="enabled"/>
+		<setting label="30006" type="select" id="mame2003-sample_rate" values="48000|8000|11025|22050|44100" default="48000"/>
+		<setting label="30007" type="select" id="mame2003-cheats" values="disabled|enabled" default="disabled"/>
+		<setting label="30008" type="select" id="mame2003-dialsharexy" values="disabled|enabled" default="disabled"/>
+		<setting label="30009" type="select" id="mame2003-mouse_device" values="mouse|pointer|disabled" default="mouse"/>
+		<setting label="30010" type="select" id="mame2003-rstick_to_btns" values="enabled|disabled" default="enabled"/>
 	</category>
 </settings>
