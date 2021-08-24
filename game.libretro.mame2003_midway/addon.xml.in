@@ -14,14 +14,10 @@
 		<supports_standalone>false</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-
-Supported files: .zip</description>
 		<license>MAME</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.mame2003_midway</source>
 		<summary lang="en_GB">Arcade (MAME 2003 Midway) 0.78</summary>
-		<description lang="en_GB">MAME 2003 with speedhack for the Midway sound hardware used in Mortal Kombat 2, 3 and others.
-
-Supported files: .zip</description>
+		<description lang="en_GB">MAME 2003 with speedhack for the Midway sound hardware used in Mortal Kombat 2, 3 and others.</description>
 	</extension>
 </addon>
