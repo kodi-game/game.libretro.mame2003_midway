@@ -21,7 +21,7 @@ msgid "Arcade (MAME 2003 Midway) 0.78"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid "MAME 2003 with speedhack for the Midway sound hardware used in Mortal Kombat 2, 3 and others.Supported files: .zip"
+msgid "MAME 2003 with speedhack for the Midway sound hardware used in Mortal Kombat 2, 3 and others."
 msgstr ""
 
 msgctxt "#30000"
