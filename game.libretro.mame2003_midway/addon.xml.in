@@ -22,6 +22,7 @@
 			<icon>resources/icon.png</icon>
 		</assets>
 		<summary lang="en_GB">Arcade (MAME 2003 Midway) 0.78</summary>
+		<description lang="da_DK">MAME 2003 med speedhack til Midway-lydhardwaren brugt i Mortal Kombat 2, 3 og andre.</description>
 		<description lang="en_GB">MAME 2003 with speedhack for the Midway sound hardware used in Mortal Kombat 2, 3 and others.</description>
 	</extension>
 </addon>
