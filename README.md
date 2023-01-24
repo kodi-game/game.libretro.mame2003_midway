@@ -13,7 +13,7 @@ MAME
 
 ### Icon
 
-![Icon](game.libretro.mame2003_midway/resources/icon.png)
+![Arcade (MAME 2003 Midway) icon](game.libretro.mame2003_midway/resources/icon.png)
 
 ### Fanart
 
