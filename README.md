@@ -1,6 +1,3 @@
-[![Build Status](https://travis-ci.org/kodi-game/game.libretro.mame2003_midway.svg?branch=master)](https://travis-ci.org/kodi-game/game.libretro.mame2003_midway)
-[![Build Status](https://ci.appveyor.com/api/projects/status/github/kodi-game/game.libretro.mame2003_midway?svg=true)](https://ci.appveyor.com/project/kodi-game/game-libretro-mame2003-midway)
-
 # Arcade (MAME 2003 Midway)
 
 ### Description
