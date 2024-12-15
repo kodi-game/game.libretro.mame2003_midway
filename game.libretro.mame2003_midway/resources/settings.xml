@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
-	<category label="30000">
+	<category label="128">
 		<setting label="30001" type="select" id="mame2003-frameskip" values="0|1|2|3|4|5" default="0"/>
 		<setting label="30002" type="select" id="mame2003-dcs-speedhack" values="enabled|disabled" default="enabled"/>
 		<setting label="30003" type="select" id="mame2003-skip_disclaimer" values="enabled|disabled" default="enabled"/>
