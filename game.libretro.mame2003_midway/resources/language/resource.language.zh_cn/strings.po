@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "MAME 2003 with speedhack for the Midway sound hardware used in Mortal Kombat 2, 3 and others."
 msgstr "MAME 2003 加上针对《真人快打2》、《真人快打3》和其他游戏中使用的 Midway 声音硬件的 speedhack。"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "设置"
-
 msgctxt "#30001"
 msgid "Frameskip"
 msgstr "帧跳过"
@@ -68,3 +64,7 @@ msgstr "鼠标设备"
 msgctxt "#30010"
 msgid "Right Stick to Buttons"
 msgstr "右摇杆到按钮"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "设置"
