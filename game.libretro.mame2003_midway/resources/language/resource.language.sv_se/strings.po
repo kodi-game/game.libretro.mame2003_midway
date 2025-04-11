@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.mame2003_midway\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2020-10-12 04:06i\n"
-"PO-Revision-Date: 2025-04-08 15:13+0000\n"
+"PO-Revision-Date: 2025-04-11 09:05+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-mame2003_midway/sv_se/>\n"
 "Language: sv_se\n"
@@ -27,7 +27,7 @@ msgstr "MAME 2003 med speedhack för Midways ljudhårdvara som används i Mortal
 
 msgctxt "#30001"
 msgid "Frameskip"
-msgstr ""
+msgstr "Hoppa över bildrutor"
 
 msgctxt "#30002"
 msgid "MK2/MK3 DCS Speedhack"
