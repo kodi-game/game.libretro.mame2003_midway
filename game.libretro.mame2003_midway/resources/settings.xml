@@ -103,8 +103,8 @@
 					<default>mouse</default>
 					<constraints>
 						<options>
-							<option>mouse</option>
-							<option>pointer</option>
+							<option label="30011">mouse</option>
+							<option label="30012">pointer</option>
 							<option label="13106">disabled</option>
 						</options>
 					</constraints>
