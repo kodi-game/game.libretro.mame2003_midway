@@ -65,6 +65,14 @@ msgctxt "#30010"
 msgid "Right Stick to Buttons"
 msgstr "右摇杆到按钮"
 
+msgctxt "#30011"
+msgid "mouse"
+msgstr ""
+
+msgctxt "#30012"
+msgid "pointer"
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "设置"

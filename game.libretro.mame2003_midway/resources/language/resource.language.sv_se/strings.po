@@ -66,6 +66,14 @@ msgctxt "#30010"
 msgid "Right Stick to Buttons"
 msgstr "Höger spak till knappar"
 
+msgctxt "#30011"
+msgid "mouse"
+msgstr ""
+
+msgctxt "#30012"
+msgid "pointer"
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Inställningar"

@@ -64,3 +64,11 @@ msgstr ""
 msgctxt "#30010"
 msgid "Right Stick to Buttons"
 msgstr ""
+
+msgctxt "#30011"
+msgid "mouse"
+msgstr ""
+
+msgctxt "#30012"
+msgid "pointer"
+msgstr ""
