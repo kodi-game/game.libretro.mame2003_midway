@@ -1,1 +1,1 @@
-mame2003_midway https://github.com/libretro/mame2003_midway/archive/f01b4edea5a78307de2a3f3ad3c831108c8ae7ff.tar.gz
+mame2003_midway https://github.com/libretro/mame2003_midway/archive/fb5fb047d0efd9fdc9d56e50fa377f5e47569d35.tar.gz
